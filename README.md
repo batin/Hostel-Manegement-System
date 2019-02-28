@@ -15,7 +15,7 @@
 ## Introduction
 ### Main Frame
   - User can pick date from "SEÇ" button.
-  - There is also Tomorrow and Yesterday buttons that user can easyly jump next day or day before.
+  - There is also Tomorrow and Yesterday buttons that user can easily jump the next day or the day before.
   - From the mini buttons which are next to room rows, user can edit or update reservations.
   - From the "REZERVASYON EKLE" button user can make a reservation.
 
